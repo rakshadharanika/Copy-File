@@ -21,7 +21,9 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
+### OUTPUT:
 
+![output](code.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
